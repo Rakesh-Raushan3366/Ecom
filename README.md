@@ -53,8 +53,7 @@ This is a fully functional **E-commerce REST API** that supports:
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<your-username>/ecom-api.git
-cd ecom-api
+git clone https://github.com/Rakesh-Raushan3366/Ecom.git
 ```
 
 ### 2️⃣ Create Virtual Environment
