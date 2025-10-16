@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework>=3.14
+djangorestframework-simplejwt>=5.2
+psycopg2-binary>=2.9
+channels>=4.0
+channels-redis>=4.0
+django-filter>=23.1
+redis>=4.5
+python-dotenv>=1.0
